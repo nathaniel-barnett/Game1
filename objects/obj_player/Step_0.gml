@@ -18,9 +18,9 @@ if (place_meeting(x + hsp,y,obj_wall))
 }
 x = x + hsp;
 //----------------------------------------------------
-
 /*
-neiufiubefiusbfiubseifubsiuefbisufbiusbfiusefiubsefiu
+
+1234
 
 */
 if (place_meeting(x,y + vsp,obj_wall))
