@@ -18,6 +18,11 @@ if (place_meeting(x + hsp,y,obj_wall))
 }
 x = x + hsp;
 //----------------------------------------------------
+
+/*
+neiufiubefiusbfiubseifubsiuefbisufbiusbfiusefiubsefiu
+
+*/
 if (place_meeting(x,y + vsp,obj_wall))
 {
    while (!place_meeting(x,y + sign(vsp),obj_wall))
